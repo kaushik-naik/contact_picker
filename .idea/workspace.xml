@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -40,13 +40,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d25e0e-53db-406a-b03d-8810e3a4cc78" name="Default Changelist" comment="Release 4.6.0">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_picker_web/contact_picker_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/contact_picker_web/contact_picker_web.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +71,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kaushik-naik&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kaushik-naik/contact_picker.git&quot;,
+    &quot;accountId&quot;: &quot;8b50277c-3286-47d8-874e-1c2fbd4d50f8&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -74,6 +93,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="1lI2b2c9OFJPngUmmaniN6JzZ9c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -85,10 +107,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.codeium.enabled": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/mik/IdeaProjects/contact_picker/contact_picker",
+    "git-widget-placeholder": "remove-dependecy-for-contact-picker-web",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/admin/Desktop/local_packages/contact_picker",
     "nodejs_package_manager_path": "npm",
     "show.migrate.to.gradle.popup": "false"
   }
@@ -163,7 +193,8 @@
     <MESSAGE value="Finalize web support" />
     <MESSAGE value="Custom Relation Support" />
     <MESSAGE value="Release 4.6.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 4.6.0" />
+    <MESSAGE value="delete contact picker web" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete contact picker web" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

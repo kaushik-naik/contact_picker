@@ -1,3 +1,5 @@
+package android
+
 group 'me.schlaubi.fluttercontactpicker'
 version '4.7.0-SNAPSHOT'
 
