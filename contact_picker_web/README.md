@@ -1,1 +1,0 @@
-See https://github.com/DRSchlaubi/contact_picker/#web-support for more
